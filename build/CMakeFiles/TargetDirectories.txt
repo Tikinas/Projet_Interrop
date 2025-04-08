@@ -1,0 +1,3 @@
+/mnt/c/Users/Administrateur/projet_distribution/build/CMakeFiles/DistributionImage.dir
+/mnt/c/Users/Administrateur/projet_distribution/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Administrateur/projet_distribution/build/CMakeFiles/rebuild_cache.dir
