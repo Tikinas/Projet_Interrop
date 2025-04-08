@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/DistributionImage.dir/src/main.cpp.o -o DistributionImage  /usr/lib/x86_64-linux-gnu/libX11.so 
